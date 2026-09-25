@@ -131,7 +131,7 @@ const Signup = ({ API_URL = "https://smart-expense-tracker-backend-ah69.onrender
           </div>
           <h1 className={signupStyles.headerTitle}>Create Account</h1>
           <p className={signupStyles.headerSubtitle}>
-            Join ExpenseTracker to manage your finances
+            Join Trackzy to manage your finances
           </p>
         </div>
 

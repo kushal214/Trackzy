@@ -104,7 +104,7 @@ const Login = ({ onLogin, API_URL = "https://smart-expense-tracker-backend-ah69.
           </div>
           <h1 className={loginStyles.headerTitle}>Welcome Back</h1>
           <p className={loginStyles.headerSubtitle}>
-            Sign in to your ExpenseTracker account
+            Sign in to your Trackzy account
           </p>
         </div>
 
